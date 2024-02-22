@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me email me on finishedgamer5034@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: i type rally fast :)
+- 😄 Pronouns: spark
+- ⚡ Fun fact: currently learning "python"
 
 <!---
 Prashant69696969/Prashant69696969 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
